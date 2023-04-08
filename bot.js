@@ -1,5 +1,4 @@
 const { Telegraf, Markup} = require('telegraf')
-const { Extra } = require('telegraf')
 const { Configuration, OpenAIApi } = require("openai");
 
 const bot = new Telegraf('6129025262:AAGscUZ5V6Wmh1xkjuJdO0DS-MjEbNcmR_M');
